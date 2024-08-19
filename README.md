@@ -14,7 +14,7 @@
     ```bash
     pip install -r requirements.txt
 
-- Create an account on https://platform.openai.com/playground/chat?models=gpt-4o-mini and set up your OPENAI_API_KEY
+- Create an account on https://platform.openai.com/api-keys and set up your OPENAI_API_KEY
 
 - Run main.py
     ```bash
